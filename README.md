@@ -6,4 +6,4 @@ GrafMap.ipynb is a Jupyter Notebook that contains a heat map of grafiti concentr
 
 dfgrafiti3.pkl contains the result of a object detection model 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/BaoxiticDC/GrafittiData/blob/main/mapa.gif)
